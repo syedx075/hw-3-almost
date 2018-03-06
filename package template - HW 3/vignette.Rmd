@@ -1,0 +1,55 @@
+---
+title: "HW 3 functions"
+author: "Jasmine Syed"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## My functions
+
+```{r}
+example(func1)
+```
+
+```{r}
+example(func2)
+```
+
+```{r}
+example(func3)
+```
+
+```{r}
+example(func4)
+```
+
+```{r}
+example(func5)
+```
+
+```{r}
+example(func6)
+```
+
+```{r}
+example(plotMyData)
+```
+
+```{r}
+#plot can be the ggplot wrapper - maybe do one for each data
+
+
+#think of vignette like a lab report
+```
+
